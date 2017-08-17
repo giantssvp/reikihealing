@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "reikihealing", "..\..\..\..\reikihealing\", "{359396B3-13F6-46A9-882F-2BD9929E6CB4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_14071"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\reikihealing\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_14071\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_14071"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\reikihealing\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_14071\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "14071"
+		SlnRelativePath = "..\..\..\..\reikihealing\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359396B3-13F6-46A9-882F-2BD9929E6CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359396B3-13F6-46A9-882F-2BD9929E6CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

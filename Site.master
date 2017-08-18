@@ -6,7 +6,7 @@
 <head runat="server">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Reiki and Heeling House</title>
+    <title>Reiki and Healing House</title>
 
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
@@ -75,7 +75,7 @@
 	<div id="templatemo_header">
     	<div id="site_title">
 			<br/>
-            <h1><font color="#af0083">Reiki and Heeling House</font></h1>
+            <h1><font color="#af0083">Reiki and Healing House</font></h1>
         </div> 
     	<!-- end of site_title -->
     </div><!-- end of header -->
